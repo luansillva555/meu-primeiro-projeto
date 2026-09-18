@@ -1,11 +1,11 @@
 # meu-primeiro-projeto
-projeto de inicio 
 index.html
-gestao-ti/
-├── README.md
-├── docs/
-│   └── requisitos.md
-├── frontend/
-├── backend/
-├── database/
-└── .gitignore
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu primeiro projeto</title>
+</head>
+<body>
+    <h1>Olá, GitHub!</h1>
+</body>
+</html>
