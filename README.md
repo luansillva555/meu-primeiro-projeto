@@ -3,7 +3,7 @@ index.html
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Meu primeiro projeto</title>
+    <TI>Meu primeiro projeto</TI>
 </head>
 <body>
     <h1>Olá, GitHub!</h1>
